@@ -32,6 +32,11 @@ const usuarioDisponibles = [ const usuariosDisponibles = [
       dinero: 0,
       numeroCuenta: "5",
     },
+    {
+      nombre: "Gustavo",
+      dinero: 300,
+      numeroCuenta: "9",
+    },
   ];
 
 ];
